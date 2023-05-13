@@ -26,4 +26,5 @@
 | Sharex          | Winget UI ShareX                                                            |  ❌   |
 | StartAllBack    | Winget UI StartAllBack                                                      |  ❌   |
 | tera copy       | Winget UI  TeraCopy                                                         |  ❌   |
-| VLC             | Winget UI VLC media player                                                  |  ❌   |`
+| VLC             | Winget UI VLC media player                                                  |  ❌   |
+| hydrus          | [Hydrus image Board](https://github.com/hydrusnetwork/hydrus)               |  ❌   |
