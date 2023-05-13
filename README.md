@@ -28,3 +28,4 @@
 | tera copy       | Winget UI  TeraCopy                                                         |  ❌   |
 | VLC             | Winget UI VLC media player                                                  |  ❌   |
 | hydrus          | [Hydrus image Board](https://github.com/hydrusnetwork/hydrus)               |  ❌   |
+| Syncthing       | [Syncthing](https://syncthing.net/downloads/)                               |  ❌   |
