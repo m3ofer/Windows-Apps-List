@@ -29,5 +29,5 @@
 | VLC             | Winget UI VLC media player                                                  |  ❌   |
 | hydrus          | [Hydrus image Board](https://github.com/hydrusnetwork/hydrus)               |  ❌   |
 | Syncthing       | [Syncthing](https://syncthing.net/downloads/)                               |  ❌   |
-| Microrecortder  | [Microrecortder](https://www.macrorecorder.com/)                            |  ❌   |
+| Macrorecorder   | [Macrorecorder](https://www.macrorecorder.com/)                             |  ❌   |
 | XmouseButton    | [XmouseButton](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm) |  ❌   |
